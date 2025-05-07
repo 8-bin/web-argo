@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
       - name: web-con
-        image: 967361137282.dkr.ecr.ap-northeast-2.amazonaws.com/web-argo:1
+        image: 967361137282.dkr.ecr.ap-northeast-2.amazonaws.com/web-argo:2
